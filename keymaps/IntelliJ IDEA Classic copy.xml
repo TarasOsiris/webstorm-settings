@@ -1,4 +1,8 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="NextTab">
@@ -6,5 +10,11 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Vcs.Log.ShowTooltip">
+    <mouse-shortcut keystroke="control button2" />
   </action>
 </keymap>
