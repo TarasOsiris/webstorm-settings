@@ -23,6 +23,9 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.ShowTooltip">
