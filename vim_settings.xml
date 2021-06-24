@@ -25,7 +25,7 @@
       <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -72,6 +72,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
