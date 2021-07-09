@@ -3,7 +3,6 @@
     <option name="customScope" value="Portal" />
     <option name="defaultScopeName" value="Portal" />
     <option name="SEARCH_SCOPE" value="Portal" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.ts</mask>
   </component>
 </application>
