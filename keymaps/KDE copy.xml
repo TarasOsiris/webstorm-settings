@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="CloseActiveTab" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
@@ -27,6 +30,7 @@
   </action>
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorSelectWord" />
   <action id="EditorToggleInsertState" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -95,6 +99,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="ShowErrorDescription" />
+  <action id="SmartSelect" />
   <action id="Terminal.ClearBuffer" />
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
