@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="CloseActiveTab" />
+  <action id="CloseContent" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
