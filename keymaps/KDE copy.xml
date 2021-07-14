@@ -5,6 +5,7 @@
     <keyboard-shortcut first-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="f6" />
@@ -19,6 +20,8 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWordWithSelection" />
   <action id="EditorToggleInsertState" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -41,6 +44,8 @@
   </action>
   <action id="Graph.RouteEdges" />
   <action id="InsertLiveTemplate" />
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="Move" />
   <action id="NavBar-navigate" />
   <action id="NextTab">
@@ -58,11 +63,21 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="RemoteHostView.EditSource" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="shift alt 1" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
