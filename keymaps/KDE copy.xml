@@ -31,11 +31,6 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="alt e" />
-    <keyboard-shortcut first-keystroke="shift e" />
-  </action>
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord" />
