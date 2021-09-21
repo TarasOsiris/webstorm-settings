@@ -1,5 +1,4 @@
 <keymap version="1" name="KDE copy" parent="Default for KDE">
-  <action id="$Delete" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -27,6 +26,9 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditSource" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
