@@ -5,6 +5,12 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="CloseContent" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -16,7 +22,14 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -50,6 +63,8 @@
   <action id="ServiceView.AddService">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
